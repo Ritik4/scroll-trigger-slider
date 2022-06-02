@@ -1,0 +1,1 @@
+import slickcroussl css in _app.js
